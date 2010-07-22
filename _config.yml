@@ -1,0 +1,3 @@
+destination: ./_site
+server_port: 4000
+exclude: ['Rakefile', 'README.markdown']
