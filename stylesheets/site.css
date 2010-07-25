@@ -11,15 +11,23 @@
  * Tan #CBC2AE
  * Bright Red #E1192E
  *
+ ************************
+ *
+ * Nacho Cheese #FFD06C
+ * Dark Lime #9AB10A
+ * Tomato Red #D8412C
+ * Minced Onion #F1F1E0
+ * 
  */
 
 body {font-size:85%;}
 html {
-  background: #500B0B;
+  background: #FFD06C;
 }
 body {
-  color: white;
-  background: #500B0B;
+  color: black;
+  background: #FFD06C;
+  color: #500B0B;
 }
 h1, h2, h3, h4, h5, h6 {
   color: #343A41;
@@ -87,10 +95,10 @@ a:hover { color: #86B477;}
 .info {
   padding-top: 20px;
   padding-bottom: 20px;
-  background: #ebe3d1;
+  background: #F1F1E0;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
-  border: 5px solid #cbc2ae;
+  border: 5px solid #B5B5AB;
 }
 
 .info, .info h6 {
@@ -149,8 +157,10 @@ a:hover { color: #86B477;}
   text-align: right;
 }
 .top_title {
-  color: #EBE3D1;
+  color: black;
+  color: #8c1d0e;
+  color: #500B0B;
 }
 .external {
-  color: #EBE3D1;
+  color: #500B0B;
 }
