@@ -41,6 +41,11 @@ img.logo {
   margin-right: auto 
 }
 
+p + p {
+  text-indent: 0;
+  margin-top: 0.2em;
+}
+
 
 .highlight {
     -webkit-border-radius: .5em;
@@ -163,4 +168,9 @@ a:hover { color: #86B477;}
 }
 .external {
   color: #500B0B;
+}
+.byline {
+  color: #5B6571;
+  text-align:right;
+  margin-top: -15px;
 }
