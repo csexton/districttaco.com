@@ -1,0 +1,24 @@
+---
+layout: base
+---
+<div class="clearfix">
+  <div class="span-7 append-3 prepend-1">
+    <a href="/"><img class="logo" alt="District Taco Logo" width="316" height="206" src="/images/logo_resturant.png" /></a>
+  </div>
+</div>
+
+<div class="protent info clearfix">
+  <div class="span-15 append-1 prepend-4">
+<div class='entry'>
+  <h2 class='title'>{{ page.title }}</h2>
+  <div class='byline'>{{ page.date | date:"%B %d, %Y" }}</div>
+  <div class='body'>
+    {{ content }}
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://districttaco.com" data-text="{{ page.title }}" data-count="horizontal" data-via="DistrictTaco">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+  </div>
+  </div>
+  </div>
+
+
+</div>
+
