@@ -3,7 +3,7 @@ layout: post
 title: Voting starts today!
 ---
 
-Amigos! We have been nominated to be on The Great Food Truck Race on the Food Network, and we need your help. If you want to see our Yucaton style tacos on The Food Network vote for us -- today!
+Amigos! We have been nominated to be on The Great Food Truck Race on the Food Network, and we need your help. If you want to see our Yucatan style tacos on The Food Network vote for us -- today!
 
 <span style="font-size: 1.2em;font-weight:bold;">Text FT21 to 66789 to vote for District Taco</span>
 <br>
